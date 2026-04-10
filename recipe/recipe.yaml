@@ -1,5 +1,5 @@
 context:
-  version: "4.31.2"
+  version: "4.32.0"
 
 package:
   name: logfire-api
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/l/logfire-api/logfire_api-${{ version }}.tar.gz
-    sha256: bedcd641cdda3226af6f0631fd0be5772edc994805afc435520702542f66e0ff
+    sha256: aae7d7f1e38d04c6fa9449b15b18cc77336474feae56afc507e6f053aa1afb83
   - url: https://raw.githubusercontent.com/pydantic/logfire/refs/heads/main/LICENSE
     sha256: 035507b8a1e787a16c7f138f092557a30a8ee9cc9cef6e84d11546ee3b9a45cd
 
